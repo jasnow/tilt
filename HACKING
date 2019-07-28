@@ -3,6 +3,9 @@ Clone:
     git clone git://github.com/rtomayko/tilt.git
     cd tilt
 
+If you have a problem bundling iden-ruby gem, check out:with 
+https://stackoverflow.com/questions/50055812/error-while-bundle-install-for-idn-ruby
+
 Install needed packages under ./vendor and run tests (requires bundler):
 
     rake
